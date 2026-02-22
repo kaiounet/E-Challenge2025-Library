@@ -1,0 +1,6 @@
+@echal2025library_HostAddress = http://localhost:5280
+
+GET {{echal2025library_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
